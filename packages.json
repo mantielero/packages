@@ -17409,5 +17409,19 @@
     "description": "Least recently used (LRU) cache",
     "license": "MIT",
     "web": "https://github.com/jackhftang/lrucache"
+  },
+  {
+    "name": "ipopt",
+    "url": "https://github.com/mantielero/ipopt.nim",
+    "method": "git",
+    "tags": [
+      "optimization",
+      "ipopt",
+      "numeric",
+      "sci"
+    ],
+    "description": "Non linear optimization using IPOPT (Interior Point OPTimization)",
+    "license": "BSD",
+    "web": "https://github.com/mantielero/ipopt.nim"
   }
 ]
